@@ -1,7 +1,7 @@
 // Assignment 08
 // Write The Function Here
 function printInConsole(...all: (number | string | boolean)[]): string {
-  all.forEach( item => console.log(`The Value Is ${item} And Type Is ${typeof item}`));
+  all.forEach(item => console.log(`The Value Is ${item} And Type Is ${typeof item}`));
 
   // let message = "";
   // ForLoop
