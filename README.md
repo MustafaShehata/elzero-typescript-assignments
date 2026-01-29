@@ -10,8 +10,8 @@ The assignments are organized by weeks.
 | Week | Lessons | Topic | Status |
 | --- | --- | --- | --- |
 | Week 1 | 01 - 11 | Intro & Type Annotations | Completed |
-| Week 2 | 12 - 21 | Data Types & Advanced Aliases | In Progress |
-| Week 3 | 22 - 31 | Interfaces & Classes Part 1 | Pending |
+| Week 2 | 12 - 21 | Data Types & Advanced Aliases | Completed |
+| Week 3 | 22 - 31 | Interfaces & Classes Part 1 | In Progress |
 | Week 4 | 32 - 38 | Classes Part 2 & Generics | Pending |
 
 ## Resources
