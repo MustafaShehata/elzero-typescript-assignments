@@ -7,4 +7,5 @@ let myInfo: mix;
 myInfo = 1000; // No Problem Here
 myInfo = true; // No Problem Here
 
+// Only for testing
 console.log(myInfo);
